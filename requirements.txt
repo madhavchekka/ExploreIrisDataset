@@ -1,0 +1,8 @@
+## Datascience Libraries 
+pandas 
+numpy
+seaborn 
+matplotlib
+sklearn 
+
+
